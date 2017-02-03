@@ -1,0 +1,18 @@
+c:\users\jonathan\documents\visual studio 2010\Projects\NewEngine\NewEngine\obj\x86\Debug\NewEngine.Form1.resources
+c:\users\jonathan\documents\visual studio 2010\Projects\NewEngine\NewEngine\obj\x86\Debug\NewEngine.Properties.Resources.resources
+c:\users\jonathan\documents\visual studio 2010\Projects\NewEngine\NewEngine\obj\x86\Debug\NewEngine.csproj.GenerateResource.Cache
+c:\users\jonathan\documents\visual studio 2010\Projects\NewEngine\NewEngine\bin\Debug\NewEngine.exe
+c:\users\jonathan\documents\visual studio 2010\Projects\NewEngine\NewEngine\bin\Debug\NewEngine.pdb
+c:\users\jonathan\documents\visual studio 2010\Projects\NewEngine\NewEngine\obj\x86\Debug\NewEngine.exe
+c:\users\jonathan\documents\visual studio 2010\Projects\NewEngine\NewEngine\obj\x86\Debug\NewEngine.pdb
+C:\Users\Jonathan\documents\visual studio 2010\Projects\NewEngine\NewEngine\obj\x86\Debug\NewEngine.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\documents\visual studio 2010\Projects\NewEngine\NewEngine\bin\Debug\NAudio.dll
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\obj\x86\Debug\NewEngine.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\obj\x86\Debug\NewEngine.Form1.resources
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\obj\x86\Debug\NewEngine.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\bin\Debug\NAudio.dll
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\bin\Debug\MelodyMadness.exe
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\bin\Debug\MelodyMadness.pdb
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\obj\x86\Debug\MelodyMadness.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\obj\x86\Debug\MelodyMadness.exe
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\obj\x86\Debug\MelodyMadness.pdb

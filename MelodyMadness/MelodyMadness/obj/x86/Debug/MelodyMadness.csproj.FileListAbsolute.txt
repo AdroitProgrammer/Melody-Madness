@@ -1,0 +1,38 @@
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\obj\x86\Debug\MelodyMadness.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\obj\x86\Debug\MelodyMadness.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\obj\x86\Debug\MelodyMadness.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\obj\x86\Debug\MelodyMadness.exe
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\obj\x86\Debug\MelodyMadness.pdb
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\obj\x86\Debug\MelodyMadness.Form1.resources
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\bin\Debug\MelodyMadness.exe
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\bin\Debug\MelodyMadness.pdb
+C:\Users\Jonathan\Desktop\NewEngine\NewEngine\bin\Debug\NAudio.dll
+C:\Users\Jonathan\Desktop\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.exe
+C:\Users\Jonathan\Desktop\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.pdb
+C:\Users\Adroitboss\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\bin\Debug\MelodyMadness.exe
+C:\Users\Adroitboss\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\bin\Debug\MelodyMadness.pdb
+C:\Users\Adroitboss\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\bin\Debug\NAudio.dll
+C:\Users\Adroitboss\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.csprojResolveAssemblyReference.cache
+C:\Users\Adroitboss\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.Form1.resources
+C:\Users\Adroitboss\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.Properties.Resources.resources
+C:\Users\Adroitboss\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.csproj.GenerateResource.Cache
+C:\Users\Adroitboss\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.exe
+C:\Users\Adroitboss\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.pdb
+C:\Users\Jonathan\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\bin\Debug\MelodyMadness.exe
+C:\Users\Jonathan\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\bin\Debug\MelodyMadness.pdb
+C:\Users\Jonathan\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\bin\Debug\NAudio.dll
+C:\Users\Jonathan\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.Form1.resources
+C:\Users\Jonathan\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.Properties.Resources.resources
+C:\Users\Jonathan\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.exe
+C:\Users\Jonathan\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.pdb
+C:\Users\Jonathan\Dropbox\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.csprojResolveAssemblyReference.cache
+C:\Users\Adroitboss\Google Drive\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.exe
+C:\Users\Adroitboss\Google Drive\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.pdb
+C:\Users\Adroitboss\Google Drive\Melody Madness\MelodyMadness\MelodyMadness\bin\Debug\MelodyMadness.exe
+C:\Users\Adroitboss\Google Drive\Melody Madness\MelodyMadness\MelodyMadness\bin\Debug\MelodyMadness.pdb
+C:\Users\Adroitboss\Google Drive\Melody Madness\MelodyMadness\MelodyMadness\bin\Debug\NAudio.dll
+C:\Users\Adroitboss\Google Drive\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.csprojResolveAssemblyReference.cache
+C:\Users\Adroitboss\Google Drive\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.Form1.resources
+C:\Users\Adroitboss\Google Drive\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.Properties.Resources.resources
+C:\Users\Adroitboss\Google Drive\Melody Madness\MelodyMadness\MelodyMadness\obj\x86\Debug\MelodyMadness.csproj.GenerateResource.Cache
